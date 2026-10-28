@@ -22,3 +22,5 @@ An e-commerce company wants to understand where they are losing potential custom
 
 ## 🧰 Tools Used
 - Google Sheets (Data Aggregation, COUNTIFS, Visualization)
+
+[Live Spreadsheet](https://docs.google.com/spreadsheets/d/1O0OjyskiW6UyeT5mZXJfE-fony-Xfz6S3KHRNFfsxb4/edit?usp=sharing)
